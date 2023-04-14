@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  font-size: 0;
+}
+
+.all{
+  border-color: 1px black;
+  width: 800px;
+}
+
+.div{
+  
+  display:inline-block;
+  border-color: black solid;
+  height: 100px;
+  width: 100px;
+  
+}
+
+.black{
+  background-color: black;
+}
+
+.white{
+  background-color: aqua;
+}
+
